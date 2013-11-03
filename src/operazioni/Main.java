@@ -14,6 +14,7 @@ public class Main
     {
         TestOperazioni to = new TestOperazioni();
         to.run();
+        System.out.println("fine test");
     }
     
 }
